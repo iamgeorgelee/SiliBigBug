@@ -811,7 +811,7 @@ a.subscribe {
 }
 
 .start .uimg-d {
-    background: url(icons/PH_Day_logo_70x62.png) no-repeat;
+    background: url(icons/tiger-small.png) no-repeat;
     display: inline-block;
     width: 70px;
     height: 62px;
@@ -839,7 +839,7 @@ a.subscribe {
 
 .dn-side-bar .uimg-d {
     cursor: pointer;
-    background: url(icons/PH_Day_logo_70x62.png) no-repeat;
+    background: url(icons/tiger-small.png) no-repeat;
     position: absolute;
     left: 25px;
     bottom: 10px;
@@ -851,7 +851,7 @@ a.subscribe {
 }
 
 .night .dn-side-bar .uimg-d {
-   background: url(icons/PH_Night_logo_70x62.png) no-repeat;
+   background: url(icons/tiger-night-small.png) no-repeat;
 }
 
 .dn-blog-name {
@@ -1115,7 +1115,7 @@ a.subscribe {
 
     .uimg-d {
         cursor: pointer;
-        background: url(icons/PH_Day_logo_70x62.png) no-repeat;
+        background: url(icons/tiger-small.png) no-repeat;
         display: block;
         width: 70px;
         height: 62px;
@@ -1126,7 +1126,7 @@ a.subscribe {
     
     .night .uimg-d { 
         cursor: pointer;
-        background: url(icons/PH_Night_logo_70x62.png) no-repeat;
+        background: url(icons/tiger-night-small.png) no-repeat;
         display: block;
         width: 70px;
         height: 62px;
@@ -1205,7 +1205,7 @@ a.subscribe {
 (min-resolution: 192dppx) { 
     
     .dn-side-bar .uimg-d {
-        background: url(icons/PH_Day_logo_70x62_2x.png) no-repeat;
+        background: url(icons/tiger-large.png) no-repeat;
         position: absolute;
         left: 25px;
         bottom: 10px;
@@ -1217,7 +1217,7 @@ a.subscribe {
     }
     
     .night .dn-side-bar .uimg-d {
-        background: url(icons/PH_Night_logo_70x62_2x.png) no-repeat;
+        background: url(icons/tiger-night-large.png) no-repeat;
         position: absolute;
         left: 25px;
         bottom: 10px;
